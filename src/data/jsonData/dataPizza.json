@@ -1,0 +1,114 @@
+[
+  {
+    "id": "pizza1",
+    "name": "Double CheesePizza",
+    "category": "pizza",
+    "image": "../src/assets/images/food/pizza/pizza1.jpg",
+    "price": "$$$$"
+  },
+  {
+    "id": "pizza2",
+    "name": "Bacon CheesePizza",
+    "category": "pizza",
+    "image": "../src/assets/images/food/pizza/pizza2.jpg",
+    "price": "$"
+  },
+  {
+    "id": "pizza3",
+    "name": "Mushroom Pizza",
+    "category": "pizza",
+    "image": "../src/assets/images/food/pizza/pizza3.jpg",
+    "price": "$$"
+  },
+  {
+    "id": "pizza4",
+    "name": "Loaded Pizza",
+    "category": "pizza",
+    "image": "../src/assets/images/food/pizza/pizza4.jpg",
+    "price": "$$$"
+  },
+  {
+    "id": "pizza5",
+    "name": "Feta & Spinnach Pizza",
+    "category": "pizza",
+    "image": "../src/assets/images/food/pizza/pizza5.jpg",
+    "price": "$$"
+  },
+  {
+    "id": "pizza6",
+    "name": "Supreme Pizza",
+    "category": "pizza",
+    "image": "../src/assets/images/food/pizza/pizza6.jpg",
+    "price": "$$$"
+  },
+  {
+    "id": "pizza7",
+    "name": "Meat Lovers",
+    "category": "pizza",
+    "image": "../src/assets/images/food/pizza/pizza7.jpg",
+    "price": "$$$$"
+  },
+  {
+    "id": "pizza8",
+    "name": "Cheese Pizza",
+    "category": "pizza",
+    "image": "../src/assets/images/food/pizza/pizza8.jpg",
+    "price": "$"
+  },
+  {
+    "id": "pizza9",
+    "name": "Kale Pizza",
+    "category": "pizza",
+    "image": "../src/assets/images/food/pizza/pizza9.jpg",
+    "price": "$$"
+  },
+  {
+    "id": "pizza10",
+    "name": "Ceasar Pizza",
+    "category": "pizza",
+    "image": "../src/assets/images/food/pizza/pizza10.jpg",
+    "price": "$$$"
+  },
+  {
+    "id": "pizza11",
+    "name": "Loaded Pizza",
+    "category": "pizza",
+    "image": "../src/assets/images/food/pizza/pizza11.jpg",
+    "price": "$$$$"
+  },
+  {
+    "id": "pizza12",
+    "name": "Fruit Pizza",
+    "category": "pizza",
+    "image": "../src/assets/images/food/pizza/pizza12.jpg",
+    "price": "$"
+  },
+  {
+    "id": "pizza13",
+    "name": "Wings",
+    "category": "pizza",
+    "image": "../src/assets/images/food/pizza/pizza13.jpg",
+    "price": "$$"
+  },
+  {
+    "id": "pizza14",
+    "name": "Baked Pizza",
+    "category": "pizza",
+    "image": "../src/assets/images/food/pizza/pizza14.jpg",
+    "price": "$$$$"
+  },
+  {
+    "id": "pizza15",
+    "name": "Pizza Tenders",
+    "category": "pizza",
+    "image": "../src/assets/images/food/pizza/pizza15.jpg",
+    "price": "$"
+  },
+  {
+    "id": "pizza16",
+    "name": "Pizza Kabob",
+    "category": "pizza",
+    "image": "../src/assets/images/food/pizza/pizza16.jpg",
+    "price": "$$$"
+  }
+]

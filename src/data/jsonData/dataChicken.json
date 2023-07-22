@@ -1,0 +1,114 @@
+[
+  {
+    "id": "chicken1",
+    "name": "Double Cheese Chicken",
+    "category": "chicken",
+    "image": "../src/assets/images/food/chicken/chicken1.jpg",
+    "price": "$$$$"
+  },
+  {
+    "id": "chicken2",
+    "name": "Bacon Chicken",
+    "category": "chicken",
+    "image": "../src/assets/images/food/chicken/chicken2.jpg",
+    "price": "$"
+  },
+  {
+    "id": "chicken3",
+    "name": "Mushroom Chicken",
+    "category": "chicken",
+    "image": "../src/assets/images/food/chicken/chicken3.jpg",
+    "price": "$$"
+  },
+  {
+    "id": "chicken4",
+    "name": "Loaded Chicken",
+    "category": "chicken",
+    "image": "../src/assets/images/food/chicken/chicken4.jpg",
+    "price": "$$$"
+  },
+  {
+    "id": "chicken5",
+    "name": "Feta & Spinnach Chicken",
+    "category": "chicken",
+    "image": "../src/assets/images/food/chicken/chicken5.jpg",
+    "price": "$$"
+  },
+  {
+    "id": "chicken6",
+    "name": "Supreme Chicken",
+    "category": "chicken",
+    "image": "../src/assets/images/food/chicken/chicken6.jpg",
+    "price": "$$$"
+  },
+  {
+    "id": "chicken7",
+    "name": "Meat Lovers",
+    "category": "chicken",
+    "image": "../src/assets/images/food/chicken/chicken7.jpg",
+    "price": "$$$$"
+  },
+  {
+    "id": "chicken8",
+    "name": "Cheese Chicken",
+    "category": "chicken",
+    "image": "../src/assets/images/food/chicken/chicken8.jpg",
+    "price": "$"
+  },
+  {
+    "id": "chicken9",
+    "name": "Kale Chicken",
+    "category": "chicken",
+    "image": "../src/assets/images/food/chicken/chicken9.jpg",
+    "price": "$$"
+  },
+  {
+    "id": "chicken10",
+    "name": "Ceasar Chicken",
+    "category": "chicken",
+    "image": "../src/assets/images/food/chicken/chicken10.jpg",
+    "price": "$$$"
+  },
+  {
+    "id": "chicken11",
+    "name": "Loaded Chicken",
+    "category": "chicken",
+    "image": "../src/assets/images/food/chicken/chicken11.jpg",
+    "price": "$$$$"
+  },
+  {
+    "id": "chicken12",
+    "name": "Fruit Chicken",
+    "category": "chicken",
+    "image": "../src/assets/images/food/chicken/chicken12.jpg",
+    "price": "$"
+  },
+  {
+    "id": "chicken13",
+    "name": "Wings",
+    "category": "chicken",
+    "image": "../src/assets/images/food/chicken/chicken13.jpg",
+    "price": "$$"
+  },
+  {
+    "id": "chicken14",
+    "name": "Baked Chicken",
+    "category": "chicken",
+    "image": "../src/assets/images/food/chicken/chicken14.jpg",
+    "price": "$$$$"
+  },
+  {
+    "id": "chicken15",
+    "name": "chicken Tenders",
+    "category": "chicken",
+    "image": "../src/assets/images/food/chicken/chicken15.jpg",
+    "price": "$"
+  },
+  {
+    "id": "chicken16",
+    "name": "chicken Kabob",
+    "category": "chicken",
+    "image": "../src/assets/images/food/chicken/chicken16.jpg",
+    "price": "$$$"
+  }
+]

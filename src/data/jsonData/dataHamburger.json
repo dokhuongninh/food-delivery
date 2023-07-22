@@ -1,0 +1,114 @@
+[
+  {
+    "id": "burger1",
+    "name": "Double Cheeseburger",
+    "category": "burger",
+    "image": "../src/assets/images/food/burger/burger1.jpg",
+    "price": "$$$$"
+  },
+  {
+    "id": "burger2",
+    "name": "Bacon Cheeseburger",
+    "category": "burger",
+    "image": "../src/assets/images/food/burger/burger2.jpg",
+    "price": "$"
+  },
+  {
+    "id": "burger3",
+    "name": "Mushroom Burger",
+    "category": "burger",
+    "image": "../src/assets/images/food/burger/burger3.jpg",
+    "price": "$$"
+  },
+  {
+    "id": "burger4",
+    "name": "Loaded Burger",
+    "category": "burger",
+    "image": "../src/assets/images/food/burger/burger4.jpg",
+    "price": "$$$"
+  },
+  {
+    "id": "burger5",
+    "name": "Feta & Spinnach Burger",
+    "category": "burger",
+    "image": "../src/assets/images/food/burger/burger5.jpg",
+    "price": "$$"
+  },
+  {
+    "id": "burger6",
+    "name": "Supreme burger",
+    "category": "burger",
+    "image": "../src/assets/images/food/burger/burger6.jpg",
+    "price": "$$$"
+  },
+  {
+    "id": "burger7",
+    "name": "Meat Lovers",
+    "category": "burger",
+    "image": "../src/assets/images/food/burger/burger7.jpg",
+    "price": "$$$$"
+  },
+  {
+    "id": "burger8",
+    "name": "Cheese Burger",
+    "category": "burger",
+    "image": "../src/assets/images/food/burger/burger8.jpg",
+    "price": "$"
+  },
+  {
+    "id": "burger9",
+    "name": "Kale Burger",
+    "category": "burger",
+    "image": "../src/assets/images/food/burger/burger9.jpg",
+    "price": "$$"
+  },
+  {
+    "id": "burger10",
+    "name": "Ceasar burger",
+    "category": "burger",
+    "image": "../src/assets/images/food/burger/burger10.jpg",
+    "price": "$$$"
+  },
+  {
+    "id": "burger11",
+    "name": "Loaded Burger",
+    "category": "burger",
+    "image": "../src/assets/images/food/burger/burger11.jpg",
+    "price": "$$$$"
+  },
+  {
+    "id": "burger12",
+    "name": "Fruit Burger",
+    "category": "burger",
+    "image": "../src/assets/images/food/burger/burger12.jpg",
+    "price": "$"
+  },
+  {
+    "id": "burger13",
+    "name": "Wings",
+    "category": "burger",
+    "image": "../src/assets/images/food/burger/burger13.jpg",
+    "price": "$$"
+  },
+  {
+    "id": "burger14",
+    "name": "Baked burger",
+    "category": "burger",
+    "image": "../src/assets/images/food/burger/burger14.jpg",
+    "price": "$$$$"
+  },
+  {
+    "id": "burger15",
+    "name": "Burger Tenders",
+    "category": "burger",
+    "image": "../src/assets/images/food/burger/burger15.jpg",
+    "price": "$"
+  },
+  {
+    "id": "burger16",
+    "name": "Burger Kabob",
+    "category": "burger",
+    "image": "../src/assets/images/food/burger/burger16.jpg",
+    "price": "$$$"
+  }
+]
